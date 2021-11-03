@@ -14,6 +14,7 @@ https://github.com/beamX/chatBus/
 # 環境
 
 - Docker
+- Erlang
 - TypeScript
 - ReactHooks
 - Material-UI
