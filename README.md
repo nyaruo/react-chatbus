@@ -5,6 +5,7 @@ https://www.youtube.com/playlist?list=PLp_EUEO9JJP2CpdD9myEwF0CxVIJEWIgG
 https://github.com/beamX/chatBus/
 
 上記のサイトを用いて、学習を行なっている
+
 学習を行った経緯としては、以下が挙げられる
 
 * 自身のポートフォリオを作る上でmaterial-UIの学習を行いたかった
